@@ -1,4 +1,4 @@
-# 🛡️ CTF Writeups – Bruno Braga (samuraigaijin)
+# 🛡️ CTF Writeups – Bruno Braga
 
 Welcome to my Cybersecurity CTF repository.
 
@@ -33,7 +33,6 @@ All writeups are structured to demonstrate:
 
 ## 🧠 Platforms
 
-- [TryHackMe](https://tryhackme.com/p/samuraigaijin)
 - Local labs (WSL / Kali Linux)
 - Personal test environments
 
@@ -92,7 +91,6 @@ No real-world systems were targeted.
 
 ## 📫 Contact
 
-GitHub: https://github.com/samuraigaijin  
 LinkedIn: https://linkedin.com/in/brunod3vs/  
 
 ---
