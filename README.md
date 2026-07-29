@@ -57,30 +57,9 @@ Environment:
 - Kali Linux
 - Custom lab setups
 
----
-
-## 📂 Writeups
-
-| Room / Challenge | Platform | Focus Area |
-|------------------|----------|------------|
-| CorpWebsite | TryHackMe | Web Exploitation |
-| Hidden Deep Into My Heart | TryHackMe | Enumeration / Web |
-| ValenFind | TryHackMe | Web Recon |
-
-*(More will be added as I continue my journey.)*
 
 ---
 
-## 🚀 Career Focus
-
-Currently working towards becoming a **Pentest Junior**, with strong interest in:
-
-- Web Pentesting
-- Red Team fundamentals
-- Vulnerability Assessment
-- Offensive Security
-
----
 
 ## ⚠️ Disclaimer
 
